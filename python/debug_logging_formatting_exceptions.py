@@ -1,5 +1,7 @@
 # This snippets helps to detect what's missing in your message format when using
 # logging module
+#
+# (seen at http://stackoverflow.com/questions/2477934/easy-way-to-find-not-enough-arguments-in-python-logging-library)
 
 from pprint import pprint, pformat
 import sys
